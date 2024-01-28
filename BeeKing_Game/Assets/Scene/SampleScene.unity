@@ -240,7 +240,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 40
   orthographic: 1
   orthographic size: 4
   m_Depth: -1
@@ -440,7 +440,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 957819421
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: -6367560908665664636, guid: cd947491a13509945aa1b644f9db3ef2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -840,7 +840,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 546786516}
   m_Follow: {fileID: 546786516}
   m_Lens:
-    FieldOfView: 60
+    FieldOfView: 40
     OrthographicSize: 4
     NearClipPlane: 0.3
     FarClipPlane: 1000
